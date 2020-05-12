@@ -4,7 +4,7 @@
 
 * pkg install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/zrawhgt/hackcctv
 
 * pip3 install requests
 
